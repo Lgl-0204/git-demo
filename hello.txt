@@ -2,4 +2,5 @@
 这是第二行liangge的txt
 这是第三次liangge的txt提交
 second-line分支的内容
+master分支演示为合并时冲突再次添加内容
 second-line分支第二次提交的内容
